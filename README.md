@@ -21,10 +21,4 @@ Unittest and Pytest tests for Django project.
 
 ### [homework_bot](https://github.com/Alexandr-Safariantc/homework_bot)
 ![](https://img.shields.io/badge/Python_telegram_bot-13.7-blue) ![](https://img.shields.io/badge/Pytest-6.2.5-blue) <br>
-Telegram bot with Yandex API for tracking homework status. 
-
-
-## Some of my Github Stats
-
-<a href="https://github.com/Alexandr-Safariantc" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexandr-Safariantc&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alexandr-Safariantc&layout=compact)](https://github.com/Alexandr-Safariantc/github-readme-stats)
+Telegram bot with Yandex API for tracking homework status.
