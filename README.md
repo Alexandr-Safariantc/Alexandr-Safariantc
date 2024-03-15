@@ -10,6 +10,10 @@
 - ⛰ Discovering new places
 
 ## Have a look at my latest project
+### [The_refrigerator_improved](https://github.com/Alexandr-Safariantc/The_refrigerator_improved)
+![](https://img.shields.io/badge/SQL_Alchemy-2.0.28-blue) ![](https://img.shields.io/badge/alembic-1.13.1-blue) ![](https://img.shields.io/badge/click-8.1.7-blue) ![](https://img.shields.io/badge/pytest-6.2.4-blue) <br>
+Simple tool to manage goods.
+
 ### [api_final_yatube](https://github.com/Alexandr-Safariantc/api_final_yatube)
 ![](https://img.shields.io/badge/Django-3.2.16-blue) ![](https://img.shields.io/badge/DRF-3.12.4-blue) ![](https://img.shields.io/badge/Pytest-6.2.4-blue) ![](https://img.shields.io/badge/Djoser-2.2.2-blue) <br>
 API development with DJango Rest Framework according to ReDoc documentation. 
