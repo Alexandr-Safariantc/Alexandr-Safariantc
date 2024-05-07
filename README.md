@@ -10,9 +10,9 @@
 - ⛰ Discovering new places
 
 ## Have a look at my latest project
-### [The_refrigerator_improved](https://github.com/Alexandr-Safariantc/The_refrigerator_improved)
-![](https://img.shields.io/badge/SQL_Alchemy-2.0.28-blue) ![](https://img.shields.io/badge/alembic-1.13.1-blue) ![](https://img.shields.io/badge/click-8.1.7-blue) ![](https://img.shields.io/badge/pytest-6.2.4-blue) <br>
-Simple tool to manage goods.
+### [product_assistant](https://github.com/Alexandr-Safariantc/product_assistant)
+![](https://img.shields.io/badge/Django-3.2.3-blue) ![](https://img.shields.io/badge/DRF-3.12.4-blue) ![](https://img.shields.io/badge/PostgreSQL-13.10-blue) ![](https://img.shields.io/badge/djoser-2.1.0-blue) ![](https://img.shields.io/badge/Node.js-13.12.0-blue) ![](https://img.shields.io/badge/nginx-1.22.1-blue) ![](https://img.shields.io/badge/gunicorn-20.1.0-blue)<br>
+CI/CD Django project for recipes publishing.
 
 ### [api_final_yatube](https://github.com/Alexandr-Safariantc/api_final_yatube)
 ![](https://img.shields.io/badge/Django-3.2.16-blue) ![](https://img.shields.io/badge/DRF-3.12.4-blue) ![](https://img.shields.io/badge/Pytest-6.2.4-blue) ![](https://img.shields.io/badge/Djoser-2.2.2-blue) <br>
@@ -23,6 +23,6 @@ API development with DJango Rest Framework according to ReDoc documentation.
 Hackathon project with OOP - game 'arena'.
 
 
-### [homework_bot](https://github.com/Alexandr-Safariantc/homework_bot)
-![](https://img.shields.io/badge/Python_telegram_bot-13.7-blue) ![](https://img.shields.io/badge/Pytest-6.2.5-blue) <br>
-Telegram bot with Yandex API for tracking homework status.
+### [reviews_api](https://github.com/Alexandr-Safariantc/reviews_api)
+![](https://img.shields.io/badge/Django-3.2.16-blue) ![](https://img.shields.io/badge/DRF-3.12.4-blue) ![](https://img.shields.io/badge/DRF_simplejwt-4.7.2-blue) ![](https://img.shields.io/badge/Pytest-6.2.4-blue) <br>
+Team project of  Django app for users' reviews.
