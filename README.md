@@ -18,9 +18,9 @@ Simple tool to manage goods.
 ![](https://img.shields.io/badge/Django-3.2.16-blue) ![](https://img.shields.io/badge/DRF-3.12.4-blue) ![](https://img.shields.io/badge/Pytest-6.2.4-blue) ![](https://img.shields.io/badge/Djoser-2.2.2-blue) <br>
 API development with DJango Rest Framework according to ReDoc documentation. 
 
-### [django_testing](https://github.com/Alexandr-Safariantc/django_testing)
-![](https://img.shields.io/badge/Django-3.2.15-blue) ![](https://img.shields.io/badge/Pytest-7.1.3-blue) <br>
-Unittest and Pytest tests for Django project. 
+### [hackathon_oop_arena](https://github.com/Alexandr-Safariantc/hackathon_oop_arena)
+![](https://img.shields.io/badge/Python-3.9.19-blue) <br>
+Hackathon project with OOP - game 'arena'.
 
 
 ### [homework_bot](https://github.com/Alexandr-Safariantc/homework_bot)
