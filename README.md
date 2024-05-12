@@ -1,6 +1,6 @@
 ## Hey 👋, This is Alexandr Safariants
 
-[![Telegram](https://img.shields.io/badge/-aleksandr_safaryants-c14438?color=blue&style=flat&logo=telegram&logoColor=white&link=https://t.me/aleksandr_safaryants)](https://t.me/aleksandr_safaryants)
+[![Telegram](https://img.shields.io/badge/-aleksandr_safariants-c14438?color=blue&style=flat&logo=telegram&logoColor=white&link=https://t.me/aleksandr_safariants)](https://t.me/aleksandr_safariants)
 [![Gmail Badge](https://img.shields.io/badge/-safariantc.aa@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:safariantc.aa@gmail.com)](mailto:safariantc.aa@gmail.com)<p align='left'>
 
 - 🛠 I'm backend developer
