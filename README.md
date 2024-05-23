@@ -26,3 +26,11 @@ Hackathon project with OOP - game 'arena'.
 ### [reviews_api](https://github.com/Alexandr-Safariantc/reviews_api)
 ![](https://img.shields.io/badge/Django-3.2.16-blue) ![](https://img.shields.io/badge/DRF-3.12.4-blue) ![](https://img.shields.io/badge/DRF_simplejwt-4.7.2-blue) ![](https://img.shields.io/badge/Pytest-6.2.4-blue) <br>
 Team project of  Django app for users' reviews.
+
+## Latest activity
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Alexandr-Safariantc&theme=dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Alexandr-Safariantc&theme=dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Alexandr-Safariantc&theme=dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Alexandr-Safariantc&theme=dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Alexandr-Safariantc&theme=dark)
