@@ -14,9 +14,9 @@
 ![](https://img.shields.io/badge/Django-3.2.3-blue) ![](https://img.shields.io/badge/DRF-3.12.4-blue) ![](https://img.shields.io/badge/PostgreSQL-13.10-blue) ![](https://img.shields.io/badge/djoser-2.1.0-blue) ![](https://img.shields.io/badge/Node.js-13.12.0-blue) ![](https://img.shields.io/badge/nginx-1.22.1-blue) ![](https://img.shields.io/badge/gunicorn-20.1.0-blue)<br>
 CI/CD Django project for recipes publishing.
 
-### [api_final_yatube](https://github.com/Alexandr-Safariantc/api_final_yatube)
-![](https://img.shields.io/badge/Django-3.2.16-blue) ![](https://img.shields.io/badge/DRF-3.12.4-blue) ![](https://img.shields.io/badge/Pytest-6.2.4-blue) ![](https://img.shields.io/badge/Djoser-2.2.2-blue) <br>
-API development with DJango Rest Framework according to ReDoc documentation. 
+### [post_feed](https://github.com/Alexandr-Safariantc/post_feed)
+![](https://img.shields.io/badge/FastAPI-0.110.1-blue) ![](https://img.shields.io/badge/SQLAlchemy-2.0.29-blue) ![](https://img.shields.io/badge/pydantic-2.6.4-blue) ![](https://img.shields.io/badge/sqladmin-0.16.1-blue) ![](https://img.shields.io/badge/click-8.1.7-blue) ![](https://img.shields.io/badge/Pytest-7.1.3-blue) <br>
+FastAPI web app for blogs.
 
 ### [hackathon_oop_arena](https://github.com/Alexandr-Safariantc/hackathon_oop_arena)
 ![](https://img.shields.io/badge/Python-3.9.19-blue) <br>
