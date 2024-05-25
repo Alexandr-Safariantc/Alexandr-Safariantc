@@ -5,7 +5,7 @@
 
 - 🛠 I'm backend developer
 - <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="18" height="18" alt="Python" /></a> In love with Python 
-- Originally from Russia | Currently in Armenia
+- Originally from Russia | Currently in Erevan, Armenia
 - 🎹 Interested in Music
 - ⛰ Discovering new places
 
