@@ -31,4 +31,4 @@ Team project of  Django app for users' reviews.
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Alexandr-Safariantc&theme=dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Alexandr-Safariantc&theme=dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Alexandr-Safariantc&theme=dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Alexandr-Safariantc&theme=dark&utcOffset=4)
